@@ -1,0 +1,33 @@
+#my-acc-logo-img{
+    width: 12%;
+    height: 10vh;
+}
+
+#my-orders-account {
+    margin-top: 5vh;
+    margin-left:20%;
+    height:60vh;
+    width: 70%;
+    text-align: center;
+    background-color: rgba(147, 147, 147,0.5);
+    border-radius: 10px;
+}
+#table-my-orders{
+    width: 70%;
+    margin: auto;
+    font-size: 25px;
+
+}
+#table-my-orders a{
+    text-decoration: none;
+}
+.td-favorites{
+    border: 1px solid black;
+}
+.td-favorites{
+    text-align: center;
+}
+#err {
+    color: #3bff2c;
+    font-size: 25px;
+}

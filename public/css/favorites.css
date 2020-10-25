@@ -1,0 +1,45 @@
+#favorites {
+    margin-top: 5vh;
+    margin-left:20%;
+    height:60vh;
+    width: 70%;
+    text-align: center;
+    background-color: rgba(147, 147, 147,0.5);
+    border-radius: 10px;
+}
+
+.td-favorites{
+    border: 1px solid black;
+}
+
+#favorite-product {
+    margin: auto;
+    width: 70%;
+
+}
+
+#favorite-product {
+    margin-top: 1%;
+}
+
+.td-favorites{
+    text-align: center;
+}
+
+#submit {
+    color: #841ced;
+}
+
+#fav_text {
+    text-align: center;
+}
+
+#fav_remove {
+    color: red;
+}
+
+#logo-img {
+    width: 15%;
+    height: 8vh;
+    margin:auto;
+}

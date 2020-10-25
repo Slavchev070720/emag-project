@@ -1,0 +1,59 @@
+#addProduct-1{
+    margin-top: 5vh;
+    margin-left:20%;
+    height:60vh;
+    width: 70%;
+    text-align: center;
+    background-color: rgba(147, 147, 147,0.5);
+    border-radius: 10px;
+}
+#logo-img {
+    width: 15%;
+    height: 10vh;
+    margin:auto;
+}
+.form{
+    margin-top: 1%;
+    text-align: center;
+}
+.submit-addStep1{
+    margin-top: 1%;
+    width: 20%;
+    height: 5vh;
+    background-color: #185fa9;
+    color: white;
+}
+#addProduct-2{
+    margin-top: 5vh;
+    margin-left:20%;
+    height:60vh;
+    width: 70%;
+    text-align: center;
+    background-color: rgba(147, 147, 147,0.5);
+    border-radius: 10px;
+}
+#form-add-product2{
+    text-align: center;
+}
+#file-upl{
+    margin-left: 45%;
+}
+#text-add2{
+    color: #444444;
+}
+#submit-button-step2{
+    margin-top: 1%;
+    width: 20%;
+    height: 5vh;
+    background-color: #185fa9;
+    color: white;
+}
+#add-product1{
+    text-align: center;
+    color: #444444;
+}
+
+#err {
+    color: #ff2d1f;
+    font-size: 25px;
+}

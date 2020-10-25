@@ -1,0 +1,18 @@
+#cart{
+     margin-top: 5vh;
+     margin-left:10%;
+     height:60vh;
+     width: 80%;
+     text-align: center;
+     background-color: rgba(147, 147, 147,0.5);
+     border-radius: 10px;
+ }
+#buy{
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    margin-top:2%;
+    background-color: white;
+    border: 1px solid #10aced;
+    color: #10aced;
+}

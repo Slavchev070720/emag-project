@@ -1,0 +1,47 @@
+#register-img {
+    width: 10%;
+    height: 10vh;
+    margin-left: 45%;
+    margin-top: 2%;
+}
+.reg_mail_container{
+    width: 30%;
+    height: 50vh;
+    text-align: center;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+}
+body{
+    background-color: rgba(197, 197, 197, 0.3);
+}
+.reg-text{
+    padding-top: 5%;
+    color: #919191;
+}
+
+.reg_mail{
+    margin-top: 2%;
+    width: 70%;
+    height: 5vh;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #e8e4d4;
+    border: #c5c5c5;
+}
+.reg_submit-button{
+    margin-top: 2%;
+    width: 70%;
+    height: 5vh;
+    border-radius: 5px;
+    background-color: #185fa9;
+    color: white;
+}
+.text-login-reg{
+    margin-top: 1%;
+    font-size: 1.1em;
+}
+#err {
+    color: #ff2d1f;
+    font-size: 25px;
+}

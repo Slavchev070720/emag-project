@@ -1,0 +1,39 @@
+#acc-aside{
+    margin-left: 10%;
+    margin-top: 5vh;
+    height:60vh;
+    width: 20%;
+    background-color: #919191;
+    float: left;
+}
+
+#acc-nav li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+#acc-nav ul {
+    list-style-type: none;
+    margin: auto;
+    margin-top:20%;
+    padding: 0;
+    width: 64%;
+    background-color: #f1f1f1;
+    text-align: center;
+    height: 40vh;
+}
+
+#acc-nav li a {
+    font-size: 30px;
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    /*check?*/
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+#acc-nav li a:hover {
+    background-color: #555;
+    color: white;
+}

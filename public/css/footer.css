@@ -1,0 +1,19 @@
+
+#myFooter{
+    margin-top: 50px;
+    height: 16.9vh;
+    width:100%;
+    background-color: blue;
+    color: white;
+}
+.footer-partners{
+    color: white;
+}
+.footer-partners :hover {
+    background-color: #a4a4a4;
+    text-decoration: none;
+}
+.col-sm-3{
+    margin-right: 8%;
+}
+

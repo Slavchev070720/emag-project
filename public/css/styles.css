@@ -1,0 +1,35 @@
+
+#filters{
+    width: 80%;
+    height: 10vh;
+    margin: auto;
+    text-align: center;
+}
+.selects{
+    width: 25%;
+    height: 60%;
+    margin-top: 3%;
+    font-size: 25px;
+    background-color: grey;
+    color: white;
+}
+#empty{
+    width: 80%;
+    height: 63vh ;
+    text-align: center;
+    background-color: #e8e4d4;
+    margin: auto;
+}
+
+#empty h1{
+    padding-top: 18%;
+    font-size: 70px;
+}
+#productName{
+    font-size: 20px;
+}
+#label{
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+}
